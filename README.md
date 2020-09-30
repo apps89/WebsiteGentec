@@ -1,4 +1,4 @@
-WebsiteGentec
+WebsiteGentec is amazing
 
 Projeto do Site da empresa Gentec Treinamentos e IT.
 
